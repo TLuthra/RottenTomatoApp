@@ -36,7 +36,7 @@ Time spent: 7 hrs
 	There was a lot of work put in to make all of the small things much more polished.  From the color of the cursor in the searh bar, and the color of the UIRefreshControl, I really wanted to make sure there was a proper use of color throughout the app.  Additionally things like adding a dark background behind the tableview, changing the launchscreen to dark, and property handle all of the complicated interactions between the search bar, scrolling, and clicking the tab bar for expected behaviors.
 
 ### Walkthrough
-[Video Walkthrough](https://imgur.com/uVNU3fs.gif)
+![Video Walkthrough](https://i.imgur.com/UEykswf.gif)
 
 Credits
 ---------
